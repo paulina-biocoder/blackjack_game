@@ -2,7 +2,6 @@
 #Bernadeta Okołowicz
 #Bioinformatyka, II rok
 #Paradygmaty programowania
-#wersja 8
 
 #imporotwanie modułów.
 import random
